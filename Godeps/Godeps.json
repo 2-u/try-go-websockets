@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/mraym/try-go-websockets",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.1.0-20-g9bc973a",
+			"Rev": "9bc973af0682dc73a22553a08bfe00ee6255f56f"
+		}
+	]
+}
